@@ -1,2 +1,2 @@
 # Big_Data_Programming
-Big Data Assignments using both Hadoop and Spark
+Simple MapReduce Jobs run on the docker system in pseudo-distributed mode (Hadoop daemons running on local machine).
